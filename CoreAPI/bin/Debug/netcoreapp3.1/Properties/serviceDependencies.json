@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "FoodCategoryContext"
+    },
+    "mssql2": {
+      "type": "mssql",
+      "connectionId": "CoreAPIContext"
+    },
+    "mssql3": {
+      "type": "mssql",
+      "connectionId": "BookingContext"
+    }
+  }
+}
